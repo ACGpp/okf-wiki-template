@@ -13,6 +13,8 @@
 | 只当参考 | 想自己造的人 | 抄走目录结构、README 约定和构建脚本，按自己的喜好改造 |
 
 > 还没有把微信连上 ZCode？教程「小白主线」只需要 3 步：[装 ZCode 桌面端](https://zcode.z.ai/cn) → 扫码连接微信 Bot Channel → 发送 PROMPT。
+>
+> 📄 **想离线阅读或直接转发给朋友？** [下载 PDF 版教程](tutorials/zcode-wechat-wiki-tutorial.pdf)（12 页 A4，含全部配图，手机上可直接打开）。
 
 ## 目录结构
 
