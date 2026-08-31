@@ -1,0 +1,10 @@
+{
+  "name": "okf-wiki",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:index": "node scripts/build-index.mjs",
+    "build": "npm run build:index",
+    "dev": "npm run build:index && python3 -m http.server 4173 -d ."
+  }
+}
